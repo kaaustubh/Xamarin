@@ -1,0 +1,3 @@
+/Users/kaustubh/Projects/CameraExample/CameraExample/obj/iPhone/Debug/mtouch-cache/Link/monotouch.dll
+/Users/kaustubh/Projects/CameraExample/CameraExample/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/kaustubh/Projects/CameraExample/CameraExample/obj/iPhone/Debug/mtouch-cache/Link/CameraExample.exe
